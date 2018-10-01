@@ -85,7 +85,7 @@ Personage.prototype.defaultRoute = [
 		[ 50, 50 ], [ 300, 300 ], [ 100, 300 ], [ 200, 50 ]
 ]
 Personage.prototype.defaultPersonageImage = "./images/duck.gif"
-Personage.prototype.defaultPointImage = "./images/ping.gif"
+Personage.prototype.defaultPointImage = "./images/apple.gif"
 
 Personage.prototype.personageStyle = {
 		position: "fixed",
