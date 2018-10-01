@@ -1,5 +1,5 @@
 document.routePoints = [
-    [ 50, 50 ], [ 200, 130 ], [ 400, 230 ], [ 100, 320 ]
+    [ 50, 50 ], [ 130, 200 ], [ 230, 400 ], [ 320, 100 ]
 ]
 
 var Personage = function ( params ) {
